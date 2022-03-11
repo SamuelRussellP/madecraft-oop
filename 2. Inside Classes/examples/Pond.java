@@ -17,6 +17,7 @@ public class Pond {
 		mobyDuck.waddle();
 
 		wolfgangDuck.waddle();
+		wolfgangDuck.swim();
 
 		System.out.println(mobyDuck);
 		

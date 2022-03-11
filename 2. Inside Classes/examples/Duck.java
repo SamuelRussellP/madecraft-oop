@@ -43,6 +43,11 @@ public class Duck {
 		}
 	}
 
+	void swim(){
+		System.out.println("My name is "+this.name+" and I am currently swimming!");
+
+	}
+
 	@Override
 	public String toString() {
 		return "My name is " + name + " I like to eat " + favoriteFood +
