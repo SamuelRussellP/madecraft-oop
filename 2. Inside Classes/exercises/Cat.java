@@ -10,7 +10,7 @@ public class Cat {
 	}
 
 	void meow() {
-		System.out.println("meeeeeooooooooooowwwwwwwww!!");
+		System.out.println("Meow!!");
 	}
 
 	public void printName() {
@@ -34,11 +34,24 @@ public class Cat {
 		/* Do the following things without changing the Cat class */
 
 		// 1. Make the Cat meow
+		Cat persian = new Cat("Tom");
+		persian.meow();
 		
 		// 2. Get the Cat to print it's name
+		//System.out.println("My name is "+ persian.name);
+		persian.printName();
+
 
 		// 3. Kill the Cat!
-
+		persian.kill();
+		persian.kill();
+		persian.kill();
+		persian.kill();
+		persian.kill();
+		persian.kill();
+		persian.kill();
+		persian.kill();
+		persian.kill();
 	}
 }
 
