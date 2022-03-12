@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/6. UML" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Static" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5. Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. Polymorphism" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
